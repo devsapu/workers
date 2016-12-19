@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_bf9ee526774904f7b3d990c3c0f654ccdb1d8c8f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c36c028e3ea2518a3eb9c31f78b687511999b650.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_c6d6f0e1e7adb232f8df3a7781e98e3bb2b23cd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_2d58d9073952bf59a117e520ba9452c3c735c187.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravimal Kumaranayaka\.gradle\caches\modules-2\files-2.1\com.squareup\javawriter\2.1.1\67ff45d9ae02e583d0f9b3432a5ebbe05c30c966\javawriter-2.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="67ff45d9ae02e583d0f9b3432a5ebbe05c30c966">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\javawriter-2.1.1_75eb47cee6fc09017f988e24e05154175c1b8972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_645ae49e96da0ab6407532b597cd275be94873d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support.test\runner\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="796f9229948e907471c5595fbe94655ccf03ff73">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-runner-0.5_53bf1f5bff8cb2d1003099fd5eae45fd2b64ef33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravimal Kumaranayaka\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-core\1.3\42a25dc3219429f0e5d060061f71acb49bf010a0\hamcrest-core-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="42a25dc3219429f0e5d060061f71acb49bf010a0">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-core-1.3_3bc334342a0d70495b88c03c2c6598e5c288ce5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support.test\exposed-instrumentation-api-publish\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="905f3e63973d47fedf2d945fa31d8c0f0c98816e">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-exposed-instrumentation-api-publish-0.5_b3b8ad2fcf14d67cc881b9ae5cd726d4f7c6c5b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-core\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d115b0e9e1501135fe91254ba884fcbd83d374c0">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-core-2.2.2_465c9d15fe8f47db29f715611f9bfdb27b89a3aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_2bc7dd5135bb3a8ade7ca792221ef76fe3b911dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_82d242ce00d31f93838383e8576c56101724009c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravimal Kumaranayaka\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-library\1.3\4785a3c21320980282f9f33d0d1264a69040538f\hamcrest-library-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="4785a3c21320980282f9f33d0d1264a69040538f">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-library-1.3_018bda4ddb85d5ff7633c9e74d6a870699bda5e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_bd3c958c9b1275abcdb5d030b40d4704fb3e3f9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android\SDKS\adt-bundle-windows-x86_64-20140321\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_d988a72f9dd54a7261e8f718dd594908d81b3b3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravimal Kumaranayaka\.gradle\caches\modules-2\files-2.1\javax.annotation\javax.annotation-api\1.2\479c1e06db31c432330183f5cae684163f186146\javax.annotation-api-1.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="479c1e06db31c432330183f5cae684163f186146">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\javax.annotation-api-1.2_edae94d4e574786f59e60f001ea4c11ac9f837e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.1_2a1db55fdb843acf646f94571624c7f594efacd1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_f44ecf788ffbc4b7b894a3261c22e34c65e0f2a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support.test\rules\0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="7e11799d8a26bfa5d48acafe012ee5545b9bf468">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test-rules-0.5_7e61ed096c2573641d0de717a4a5ee4238395759.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_e9c1536a395369a3413e504c41d1f0b7a424f3f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_44047d7a29c16b04c3b479e68829b65b5e381724.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravimal Kumaranayaka\.gradle\caches\modules-2\files-2.1\com.google.code.findbugs\jsr305\2.0.1\516c03b21d50a644d538de0f0369c620989cd8f0\jsr305-2.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="516c03b21d50a644d538de0f0369c620989cd8f0">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\jsr305-2.0.1_6614f8ce01f7ddfc5f0f02447098b3f9f84f7f94.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_72732963f6cd08213e998b63fb9b9b97ad8f695a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\design\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.1_b53112afc7097a2e67d37a2fde2fd06b2f17d9f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravimal Kumaranayaka\.gradle\caches\modules-2\files-2.1\junit\junit\4.12\2973d150c0dc1fefe998f834810d68f278ea58ec\junit-4.12.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2973d150c0dc1fefe998f834810d68f278ea58ec">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\junit-4.12_17c6429c910035d587e8f52db4c51a3021c43af1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support.test.espresso\espresso-idling-resource\2.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="a890ee8445927649d9ed50f625a315d8758688be">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\com.android.support.test.espresso-espresso-idling-resource-2.2.2_e8d910965abbf69cbb2e6fe3d33b00209add6a92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravimal Kumaranayaka\.gradle\caches\modules-2\files-2.1\org.hamcrest\hamcrest-integration\1.3\5de0c73fef18917cd85d0ab70bb23818685e4dfd\hamcrest-integration-1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="5de0c73fef18917cd85d0ab70bb23818685e4dfd">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\hamcrest-integration-1.3_86ef67ee1095f7173c2609461969126c62452a63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c2b061df94dc11cd924f7a6380ee21c269945c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ravimal Kumaranayaka\.gradle\caches\modules-2\files-2.1\javax.inject\javax.inject\1\6975da39a7040257bd51d21a231b76c915872d38\javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\androidTest\debug\javax.inject-1_eba3a2c425778cc019ca167e74907d7355bcd909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="D:\My_Own\AndroidStudioProjects\HelloAuction\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_c9164edd6add5f6e661d6747997634653459e4ea.jar" />
+    </item>
+
+</items>
